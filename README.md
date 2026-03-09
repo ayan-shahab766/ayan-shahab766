@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi, I'm Ayan 👋
 
-I'm Ayan, a BSCS graduate, Full Stack Developer & AI Engineer who builds modern web applications and intelligent systems.
+A BSCS graduate, Full Stack Developer & AI Engineer who builds modern web applications and intelligent systems.
 
 I enjoy tackling challenges with a problem-solving mindset and exploring new technologies, especially Artificial Intelligence, to turn ideas into creative and practical solutions.
 

@@ -1,6 +1,6 @@
 ## Hi, I'm Ayan 👋
 
-An AI/ML Engineer and Full-Stack Developer building intelligent, production-focused applications.  
+An AI Engineer building intelligent, production-focused systems.  
 I work with Machine Learning, LLMs, RAG pipelines, multi-agent systems, and NLP to turn real-world workflows into usable AI solutions.  
 My focus is on explainable, scalable systems that combine strong engineering with practical business impact.
 

@@ -18,6 +18,7 @@ ________________________________________________________________________________
 <p>
   <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-00D4FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Agentic_Ai-1C3C3C?style=for-the-badge"/>
@@ -34,7 +35,6 @@ ________________________________________________________________________________
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 
 ### Big Data
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) <br> 

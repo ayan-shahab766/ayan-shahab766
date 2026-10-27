@@ -1,10 +1,8 @@
 ## Hi, I'm Ayan 👋
 
-A BSCS graduate, Full Stack Developer & AI Engineer who builds modern web applications and intelligent systems.
-
-I enjoy tackling challenges with a problem-solving mindset and exploring new technologies, especially Artificial Intelligence, to turn ideas into creative and practical solutions.
-
-I focus on building innovative applications and websites that solve real-world problems with clean design, efficient performance, and smart technology — but I also enjoy creating fun projects that spark my interest and keep my creativity alive.
+An AI/ML Engineer and Full-Stack Developer building intelligent, production-focused applications.  
+I work with Machine Learning, LLMs, RAG pipelines, multi-agent systems, and NLP to turn real-world workflows into usable AI solutions.  
+My focus is on explainable, scalable systems that combine strong engineering with practical business impact.
 
 _____________________________________________________________________________________________________________
 
